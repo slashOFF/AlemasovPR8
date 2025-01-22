@@ -1,0 +1,80 @@
+{
+    "visibility": 10000,
+    "timezone": 10800,
+    "main": {
+        "temp": -20.54,
+        "temp_min": -20.54,
+        "grnd_level": 1027,
+        "humidity": 89,
+        "pressure": 1041,
+        "sea_level": 1041,
+        "feels_like": -26.89,
+        "temp_max": -20.54
+    },
+    "clouds": {"all": 50},
+    "sys": {
+        "country": "RU",
+        "sunrise": 1737521828,
+        "sunset": 1737550651
+    },
+    "dt": 1737564138,
+    "coord": {
+        "lon": 48.5178,
+        "lat": 55.8438
+    },
+    "weather": [{
+        "icon": "03n",
+        "description": "переменная облачность",
+        "main": "Clouds",
+        "id": 802
+    }],
+    "name": "Зеленодольск",
+    "cod": 200,
+    "id": 463835,
+    "base": "stations",
+    "wind": {
+        "deg": 176,
+        "speed": 2.25,
+        "gust": 3.47
+    }
+}
+{
+    "visibility": 10000,
+    "timezone": 10800,
+    "main": {
+        "temp": -20.54,
+        "temp_min": -20.54,
+        "grnd_level": 1027,
+        "humidity": 89,
+        "pressure": 1041,
+        "sea_level": 1041,
+        "feels_like": -26.89,
+        "temp_max": -20.54
+    },
+    "clouds": {"all": 50},
+    "sys": {
+        "country": "RU",
+        "sunrise": 1737521828,
+        "sunset": 1737550651
+    },
+    "dt": 1737565508,
+    "coord": {
+        "lon": 48.5178,
+        "lat": 55.8438
+    },
+    "weather": [{
+        "icon": "03n",
+        "description": "переменная облачность",
+        "main": "Clouds",
+        "id": 802
+    }],
+    "name": "Зеленодольск",
+    "cod": 200,
+    "id": 463835,
+    "base": "stations",
+    "wind": {
+        "deg": 176,
+        "speed": 2.25,
+        "gust": 3.47
+    }
+}
